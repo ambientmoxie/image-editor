@@ -17,7 +17,7 @@
 
     <div class="input-container">
       <!-- svelte-ignore a11y-label-has-associated-control -->
-      <label> Job title: </label>
+      <label> Job description: </label>
       <textarea
         bind:value={$postConfig.content.description}
         placeholder="ex: Nullam imperdiet hendrerit dui ut rhoncus. Morbi faucibus eu diam a tincidunt. Praesent metus lacus, auctor vitae risus in, scelerisque sagittis sem. In dapibus faucibus ante sit amet ullamcorper. Donec mauris nisi, iaculis quis ullamcorper."

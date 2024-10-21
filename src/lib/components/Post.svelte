@@ -7,7 +7,8 @@
   let myPost;
 
   // Shallow copy. Freezes data at the initial point.
-  const initialContent = { ...get(postConfig) };
+  const initialContent = { ...get(postConfig).content };
+
 
   // Return initial value if no text is provided
   function preventEmpty(content, key) {
