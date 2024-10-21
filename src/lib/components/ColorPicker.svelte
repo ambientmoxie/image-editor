@@ -55,7 +55,10 @@
 <div class="input-container">
   <label for="">{label}</label>
 
-  <div class="color-picker-inner">
+  <div
+    class="color-picker-inner"
+    style="margin-bottom:{ddActive ? '1rem' : '0'}"
+  >
     <button
       class="select-color"
       on:click={toggleDropdown}
