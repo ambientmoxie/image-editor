@@ -58,7 +58,7 @@
       This website is developed using svelte (without sveltekit) and generates a
       bundle of static assets, allowing it to be hosted on any server. The tool
       is obviously free; you can play around with it, modify it, us it in your
-      projects and so on. Sources are available on github. It is offered as-is
+      projects and so on. Sources are available on <a href="https://github.com/ambientmoxie/image-editor" target="_blank">github</a>. It is offered as-is
       and may contain bugs.
     </p>
   </section>
