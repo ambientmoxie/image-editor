@@ -53,7 +53,7 @@
 </script>
 
 <div class="input-container">
-  <label for="">{label}</label>
+  <label for="">{label}:</label>
 
   <div
     class="color-picker-inner"
